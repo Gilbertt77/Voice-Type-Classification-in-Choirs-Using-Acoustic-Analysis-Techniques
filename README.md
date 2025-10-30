@@ -1,5 +1,9 @@
 # 🎶 Voice Type Classification in Choirs (ANN vs CNN)
 
+**Accepted and Presented at the 12th International Conference on Information Technology, Computer and Electrical Engineering (ICITACEE 2025)**  
+> Organized by Universitas Diponegoro & IEEE Indonesia Section  
+> *(Paper accepted and presented, publication in progress)*
+
 This project focuses on classifying individual **choirs voice types** — Soprano, Alto, Tenor, and Bass, using **acoustic analysis features** extracted from vocal recordings.  
 Two deep learning models, **ANN** and **CNN**, are compared in terms of performance and accuracy.
 
